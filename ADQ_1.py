@@ -204,6 +204,10 @@ def Caracterizacion_Corriente( C3 ):
     return ACI
     
 
+def pruebaGIT ():
+
+    print ("Probando prueba GIT-HUB")
+
 
 def FiltrajeEMA ( A, alpha, S ):
     #EMA Exponential Moving Average
